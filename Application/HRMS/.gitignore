@@ -1,0 +1,22 @@
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# Employee-uploaded files
+uploads/*
+!uploads/.gitkeep
+
+# Database dumps and backups
+*.sql
+*.bak
+
+# Archives
+*.zip
+
+# Logs
+*.log
+
+# Editor settings
+.vscode/
+.idea/
