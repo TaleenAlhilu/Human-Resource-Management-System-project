@@ -2,7 +2,7 @@
 
 A web based Human Resources Management System that supports employee administration, vacation requests, overtime requests, role based access, and an employee self service portal.
 
-This project was developed using PHP,SQL, Microsoft SQL Server, JavaScript, jQuery, AJAX, HTML, CSS, and Bootstrap.
+This project was developed using PHP, SQL, Microsoft SQL Server, JavaScript, jQuery, AJAX, HTML, CSS, and Bootstrap.
 
 Note: Sensitive configuration and sample data such as database credentials, email service credentials, generated uploads, and the original database records have been excluded from this public repository.
 
